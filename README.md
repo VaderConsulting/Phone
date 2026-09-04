@@ -18,6 +18,10 @@ Visual Studio 2008 VB.NET solution with two empty Compact Framework CallInfo cla
 
 Open `Phone.sln` in Visual Studio 2008 with the Windows Mobile 5.0 Smartphone and Pocket PC SDKs.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `Phone`). Assembly company and copyright still say Microsoft 2010 from the Visual Studio Compact Framework template.
