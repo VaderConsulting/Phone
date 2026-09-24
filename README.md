@@ -1,6 +1,6 @@
 # Phone
 
-Visual Studio 2008 VB.NET solution with two empty Compact Framework CallInfo class libraries for Windows Mobile. CallInfo2.0 targets .NET CF 2.0 on Windows Mobile 5.0 Smartphone; CallInfo3.5 targets .NET CF 3.5 on Windows Mobile 5.0 Pocket PC. Both still contain only the default Class1 stub. It is Dave Robinson's working copy from Historical Dev.
+Visual Studio 2008 VB.NET solution with two empty Compact Framework CallInfo class libraries for Windows Mobile. CallInfo2.0 targets .NET CF 2.0 on Windows Mobile 5.0 Smartphone; CallInfo3.5 targets .NET CF 3.5 on Windows Mobile 5.0 Pocket PC. Both still contain only the default Class1 stub. It is my working copy from Historical Dev.
 
 **Source last updated:** 2010-02-17  
 **Language:** VB.NET  
